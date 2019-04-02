@@ -27,6 +27,7 @@ requirements:
   run:
     - zlib
     - popt 1.16
+    - libiconv
 
 test:
   commands:
